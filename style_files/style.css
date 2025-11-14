@@ -118,7 +118,7 @@ nav a{
     height: 67px;
     gap: 20px;
 }
-.hi_block input[type="text"], .section_subscribe input[type="text"]{
+.hi_block input[type="email"], .section_subscribe input[type="email"]{
     width: 444px;
     height: 67px;
     gap: 10px;
@@ -131,7 +131,7 @@ nav a{
     font-size: 20px;
     color: #2B2C34;
 }
-input[type="text"]::placeholder, .section_subscribe input[type="text"]::placeholder{
+input[type="email"]::placeholder, .section_subscribe input[type="email"]::placeholder{
     color: #C0C0C0;
     font-family: Plus Jakarta Sans, sans-serif;
     font-size: 20px;
